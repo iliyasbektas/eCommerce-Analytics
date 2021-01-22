@@ -1,4 +1,4 @@
-# ADM_HW2
+# E-commerce analysis
 
 Here I do basic analysis of E-commerce data in Kaggle. 
 I used two files, October and November from E-commerce data in Kaggle. Also, I used initial 10^6 rows from each file to finish exerscices faster. 
